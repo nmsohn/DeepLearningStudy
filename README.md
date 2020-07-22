@@ -1,6 +1,6 @@
 # Deep Learning Study
 
-[Chapter List]
+Week 1 - 
 
 ---
 ## Before you start
