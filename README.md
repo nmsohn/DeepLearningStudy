@@ -4,7 +4,9 @@
 
 ---
 ## Before you start
-- 글을 작성하면 챕터 폴더에 있는 README 파일에 링크를 추가해준다. PR로 글을 작성할 것!
+- 한 주에 한 챕터를 요약해서 PR로 올리기
+- 구현한 것이 있다면 따로 repo의 링크를 첨부하거나 kaggle, colab 링크 첨부하기.
+- 글을 작성하면 챕터 폴더에 있는 README 파일에 링크를 추가하기. PR로 글을 작성할 것!
 
 ### Naming Convention
 #### ✏글작성시
