@@ -22,6 +22,7 @@ git push --set-uptream origin feature/ch1_<<username>>
 ```
 한 후 깃헙 repo로 가면 상단에 PR 버튼이 뜸.
 
+---
 
 ### Naming Convention
 #### ✏글작성시
