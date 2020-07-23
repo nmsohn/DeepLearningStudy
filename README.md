@@ -3,10 +3,25 @@
 Week 1 - 
 
 ---
-## Before you start
+## 🎉Before you start
 - 한 주에 한 챕터를 요약해서 PR로 올리기
 - 구현한 것이 있다면 따로 repo의 링크를 첨부하거나 kaggle, colab 링크 첨부하기
 - 꼭 브랜치를 생성 후 PR 만들기
+
+### 브랜치 만드는 법
+```
+git checkout master
+git fetch
+git pull
+git checkout -b "study/ch1_<<username>>"
+```
+
+### 파일 작성 후 PR 만드는 법
+```
+git push --set-uptream origin feature/ch1_<<username>>
+```
+한 후 깃헙 repo로 가면 상단에 PR 버튼이 뜸.
+
 
 ### Naming Convention
 #### ✏글작성시
