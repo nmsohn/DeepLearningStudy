@@ -6,7 +6,7 @@ Week 1 -
 ## Before you start
 - 한 주에 한 챕터를 요약해서 PR로 올리기
 - 구현한 것이 있다면 따로 repo의 링크를 첨부하거나 kaggle, colab 링크 첨부하기
-- 글을 작성하면 챕터 폴더에 있는 README 파일에 링크를 추가하기. PR로 글을 작성할 것!
+- 꼭 브랜치를 생성 후 PR 만들기
 
 ### Naming Convention
 #### ✏글작성시
