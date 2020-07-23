@@ -18,6 +18,8 @@ git checkout -b "study/ch1_<<username>>"
 
 ### 파일 작성 후 PR 만드는 법
 ```
+git add .
+git commit -m "<<커밋 내용>>"
 git push --set-uptream origin feature/ch1_<<username>>
 ```
 한 후 깃헙 repo로 가면 상단에 PR 버튼이 뜸.
