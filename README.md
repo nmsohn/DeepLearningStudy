@@ -1,6 +1,6 @@
 # Deep Learning Study
 
-Week 1 - 
+Week 1: 2020.07.27 - 2020.07.02 (Chapter 1)
 
 ---
 ## 🎉Before you start
