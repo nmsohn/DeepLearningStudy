@@ -198,7 +198,7 @@ A.dtype
 
 ## 브로드캐스트
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d363eba0-a750-4873-a6ff-87bd6ba9830d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d363eba0-a750-4873-a6ff-87bd6ba9830d/Untitled.png)
+![](./images/0.png)
 
 ```python
 A = np.array([1,2],[3,4])
@@ -256,7 +256,7 @@ plt.plot(x,y)
 plt.show()
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ef451dd-d53a-4957-accd-4394302c3969/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ef451dd-d53a-4957-accd-4394302c3969/Untitled.png)
+![](./images/1.png)
 
 ## pyplot의 기능
 
@@ -277,7 +277,7 @@ plt.legend()
 plt.show()
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1aad7bfe-c84c-4211-aa56-bbbd96be4104/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1aad7bfe-c84c-4211-aa56-bbbd96be4104/Untitled.png)
+![](./images/2.png)
 
 ## 이미지 표시
 
@@ -291,4 +291,4 @@ plt.imshow(img)
 plt.show()
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/762caeae-b5ac-44fa-b343-c1d79955c387/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/762caeae-b5ac-44fa-b343-c1d79955c387/Untitled.png)
+![](./images/3.png)
