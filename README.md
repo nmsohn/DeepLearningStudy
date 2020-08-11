@@ -1,7 +1,8 @@
 # Deep Learning Study
 
 Week 1: 2020.07.27 - 2020.08.02 (Chapter 1) </br>
-Week 2: 2020.08.03 - 2020.08.09 (Chapter 2)
+Week 2: 2020.08.03 - 2020.08.09 (Chapter 2) </br>
+Week 3: 2020.08.10 - 2020.08.16 (Chapter 3)
 
 ---
 ## 🎉Before you start
