@@ -2,7 +2,8 @@
 
 Week 1: 2020.07.27 - 2020.08.02 (Chapter 1) </br>
 Week 2: 2020.08.03 - 2020.08.09 (Chapter 2) </br>
-Week 3: 2020.08.10 - 2020.08.16 (Chapter 3)
+Week 3: 2020.08.17 - 2020.08.23 (Chapter 3) </br>
+Week 4: 2020.08.24 - 2020.08.30 (Chapter 4)
 
 ---
 ## 🎉Before you start
